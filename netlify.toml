@@ -28,8 +28,3 @@ HUGO_VERSION = "0.58.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-  from = "http://divinerhjf.netlify.com/*"
-  to = "http://www.divinerhjf.com/:splat"
-  force = true
