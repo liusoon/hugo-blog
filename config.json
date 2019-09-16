@@ -1,0 +1,88 @@
+{
+  "baseURL": "https://www.divinerhjf.com/",
+  "languageCode": "zh-cn",
+  "title": "灿若星河",
+  "theme": "hiruko",
+
+  "params": {
+    "Paginate": 5,
+    "ArchivePaginate": 25,
+    "disablePathToLower": true,
+    "preserveTaxonomyNames": true,
+    "NavItems": [
+      ["首页", "/"],
+      ["归档", "/post"],
+      ["相册", "/page/gallery", "_blank"],
+      ["关于", "/page/about"],
+      ["订阅", "/index.xml", "_blank"]
+    ],
+    "AboutMe": {
+      "Motto": "Sometimes NAIVE.",
+      "ImagePath": "/media/aboutme.jpg",
+      "AsideTitle": "FOLLOW ME",
+      "Links": [
+        ["github-link", "https://github.com/GenkunAbe"],
+        ["twitter-link", "https://twitter.com/GenkunAbe"],
+        ["weibo-link", "https://weibo.com/genkunabe"]
+      ]
+    },
+    "Copyright": {
+      "Name": "DIVINER",
+      "From": "2017",
+      "To": "2019"
+    },
+    "disqus": "",
+    "CDN": {
+      "JQuery": {
+        "Path": "/js/libs",
+        "Version": "3.2.1"
+      },
+      "JQueryMouseWheel": {
+        "Path": "/js/libs",
+        "Version": "3.1.13"
+      },
+      "JQueryUI": {
+        "Path": "/js/libs",
+        "Version": "1.12.1"
+      },
+      "JQueryTocify": {
+        "Path": "/js/libs",
+        "Version": "1.9.0"
+      },
+      "FancyBox": {
+        "Path": "/js/libs",
+        "Version": "3.0.47"
+      },
+      "Bootstrap": {
+        "Path": "/js/libs",
+        "Version": "3.3.7"
+      },
+      "HighLight": {
+        "Path": "//cdn.staticfile.org",
+        "Version": "9.13.1"
+      },
+      "HighLightNum": {
+        "Path": "//cdn.staticfile.org",
+        "Version": "2.5.0"
+      },
+      "MathJax": {
+        "Path": "//cdn.staticfile.org",
+        "Version": "2.7.5"
+      },
+      "FontAwesome": {
+        "Path": "/js/libs",
+        "Version": "4.7.0"
+      },
+      "Pangu": {
+        "Path": "/js/libs",
+        "Version": "3.3.0"
+      }
+    }
+  },
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS"
+    ]
+  }
+}
