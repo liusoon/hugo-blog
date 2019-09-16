@@ -1,0 +1,3 @@
+[submodule "themes/hiruko"]
+	path = themes/hiruko
+	url = https://github.com/GenkunAbe/hugo-theme-hiruko.git
