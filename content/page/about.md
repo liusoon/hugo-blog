@@ -5,5 +5,3 @@ type: "about"
 pagetype: "about"
 comments: false
 ---
-
-Some Text.
