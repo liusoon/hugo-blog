@@ -1,0 +1,3 @@
+[submodule "themes/divine"]
+	path = themes/divine
+	url = https://github.com/DivinerHJF/hugo-theme-divine.git
