@@ -2,7 +2,7 @@
   "baseURL": "https://www.divinerhjf.com/",
   "languageCode": "zh-cn",
   "title": "灿若星河",
-  "theme": "divine",
+  "theme": "diviner",
 
   "enableEmoji": true,
   "hasCJKLanguage": true,
