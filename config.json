@@ -4,34 +4,43 @@
   "title": "灿若星河",
   "theme": "divine",
 
+  "enableEmoji": true,
+  "hasCJKLanguage": true,
+
   "params": {
     "Paginate": 5,
     "ArchivePaginate": 25,
+
     "disablePathToLower": true,
     "preserveTaxonomyNames": true,
+
     "NavItems": [
       ["首页", "/"],
-      ["归档", "/post"],
-      ["相册", "/page/gallery", "_blank"],
-      ["关于", "/page/about"],
+      ["归档", "/posts"],
+      ["相册", "/pages/gallery", "_blank"],
+      ["关于", "/pages/about"],
       ["订阅", "/index.xml", "_blank"]
     ],
+
     "AboutMe": {
-      "Motto": "Sometimes NAIVE.",
-      "ImagePath": "/media/aboutme.jpg",
+      "Motto": "时刻热爱，时刻憧憬！",
+      "ImagePath": "/media/about.png",
       "AsideTitle": "FOLLOW ME",
       "Links": [
         ["github-link", "https://github.com/divinerhjf"],
-        ["twitter-link", "https://twitter.com/GenkunAbe"],
-        ["weibo-link", "https://weibo.com/genkunabe"]
+        ["twitter-link", "https://twitter.com/"],
+        ["weibo-link", "https://weibo.com/"]
       ]
     },
+
     "Copyright": {
       "Name": "DIVINER",
       "From": "2017",
       "To": "2019"
     },
-    "disqus": "",
+
+    "disqus": "divinerhjf",
+
     "CDN": {
       "JQuery": {
         "Path": "/js/libs",
@@ -79,6 +88,7 @@
       }
     }
   },
+
   "outputs": {
     "home": [
       "HTML",
