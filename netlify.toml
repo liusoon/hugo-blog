@@ -31,5 +31,5 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://divinerhjf.netlify.com/*"
-  to = "https://www.divinerhjf.com/:splat"
+  to = "https://www.divinerhjf.xyz/:splat"
   force = true
