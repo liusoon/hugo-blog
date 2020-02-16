@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: Diary, Reading, Studying
+categories: 编程之道, 软件工具, 浮生日记
 tags:
     - x
     - xx
@@ -15,7 +15,3 @@ vertical: false
 image: true
 draft: false
 ---
-
-Diary（日志）   ：生活经历
-Reading（阅读） ：书本感悟
-Studying（学习）：学而知不足
