@@ -42,14 +42,7 @@ SQL 是一种  **结构性查询语言**，用于在关系数据库管理系统�
 +----+----------+-----+-----------+----------+
 ```
 
-常见的以 SQL 作为标准数据库语言的关系型数据库有：
-
-- [MySQL](http://www.mysql.com/)
-- [PostgreSQL](http://www.postgresql.org/)
-- [DB2](http://www-01.ibm.com/software/data/db2/)
-- [SQL Server](https://www.microsoft.com/en-us/sqlserver/default.aspx)
-
-有关 SQL 语句的教程网上有很多，有兴趣的可以看看 [SQL 教程](https://www.runoob.com/sql/sql-tutorial.html)，比较全面。
+常见的以 SQL 作为标准数据库语言的关系型数据库有：[MySQL](http://www.mysql.com/)、[PostgreSQL](http://www.postgresql.org/)、[DB2](http://www-01.ibm.com/software/data/db2/)、[SQL Server](https://www.microsoft.com/en-us/sqlserver/default.aspx) 等。有关 SQL 语句的教程网上有很多，有兴趣的可以看看 [SQL 教程](https://www.runoob.com/sql/sql-tutorial.html)，比较全面。
 
 ### Nosql
 
