@@ -10,7 +10,7 @@ tags:
 type: "home"
 toc: true
 mathjax: false
-comments: ture
+comments: true
 vertical: false
 image: true
 draft: false
