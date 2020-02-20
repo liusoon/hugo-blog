@@ -12,7 +12,7 @@ mathjax: false
 codes: [bash, diff, markdown, python, r]
 comments: false
 vertical: false
-image: true
+image: false
 draft: false
 ---
 

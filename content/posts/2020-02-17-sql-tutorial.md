@@ -28,20 +28,39 @@ SQL（Structured Query Language）是「结构化查询语言」，它是对关�
 
 ```sql
 SELECT [DISTINCT]
-	column_name, aggregate_function(column_name) /*要查询的列名称*/
+	<select_list> /*要查询的列名称*/
 FROM
-	table_list /*要查询的表名称*/
+	<left_table> <join_type> 
+	JOIN <right_table> ON <join_condition>/*要查询的表名称*/
 WHERE
-	condition /*行条件*/
+	<where_condition> /*行条件*/
 GROUP BY
-	grouping_columns /*对结果分组*/
+	<group_by_list> /*对结果分组*/
 HAVING
-	condition /*分组后的行条件*/
+	<having_condition> /*分组后的行条件*/
 ORDER BY
-	sorting_columns [ASC|DESC] /*对结果排序*/
+	<sorting_columns> [ASC|DESC] /*对结果排序*/
 LIMIT
-	offset_start, row_length /*结果限定*/
+	<offset_start, row_length> /*结果限定*/
+```
 
+
+
+### MySQL - 执行顺序
+
+随着 Mysql 版本的更新换代，其优化器也在不断的升级，优化器会分析不同执行顺序产生的性能消耗不同而动态调整 `执行顺序`。下面是经常出现的查询顺序：
+
+```sql
+FROM <left_table> 
+ON <join_condition>
+<join_type> JOIN <right_table>
+WHERE <where_condition>
+GROUP BY <group_by_list>
+HAVING <having_condition>
+SELECT 
+[DISTINCT] <select_list>
+ORDER BY <sorting_columns> [ASC|DESC]
+LIMIT <offset_start, row_length>
 ```
 
 
