@@ -10,7 +10,7 @@ type: "home"
 toc: false
 mathjax: false
 codes: [bash, diff, markdown, python, r]
-comments: false
+comments: true
 vertical: false
 image: false
 draft: false

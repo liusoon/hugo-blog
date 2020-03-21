@@ -805,3 +805,6 @@ SQL Scalar 函数基于输入值，返回一个单一的值。
 
 
 有关上述函数的具体使用，可以参考：https://www.runoob.com/sql/sql-function.html
+
+
+
