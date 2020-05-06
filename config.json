@@ -17,7 +17,6 @@
     "NavItems": [
       ["首页", "/"],
       ["归档", "/posts"],
-      ["相册", "/pages/gallery", "_blank"],
       ["关于", "/pages/about"],
       ["订阅", "/index.xml", "_blank"]
     ],
