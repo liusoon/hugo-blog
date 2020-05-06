@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: 编程之道, 软件工具, 浮生日记
+categories: 编程之道, 君子善器, 浮生日记
 tags:
     - x
     - xx

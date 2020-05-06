@@ -1,7 +1,7 @@
 ---
-title: "君子善器 - 自用软件记录"
+title: "win10 利器 - 自用软件记录"
 date: 2020-03-21T14:58:10+08:00
-categories: 软件工具
+categories: 君子善器
 tags:
     - win10
 type: "home"
