@@ -5,7 +5,7 @@ categories: 编程之道
 tags:
     - SQL
     - Database
-type: "home"
+type: ""
 toc: true
 mathjax: false
 codes: [sql]

@@ -5,7 +5,7 @@ categories: 编程之道
 tags:
     - shell
     - bash
-type: "home"
+type: ""
 toc: true
 mathjax: false
 codes: [bash]

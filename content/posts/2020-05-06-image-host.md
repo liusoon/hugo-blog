@@ -9,7 +9,7 @@ tags:
   - Picgo
   - ShareX
   - 腾讯云COS
-type: "home"
+type: ""
 toc: true
 codes: []
 comments: true

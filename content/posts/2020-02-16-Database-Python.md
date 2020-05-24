@@ -7,7 +7,7 @@ tags:
     - MongoDB
     - Redis
     - Python
-type: "home"
+type: ""
 toc: true
 mathjax: false
 comments: true

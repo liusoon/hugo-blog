@@ -15,7 +15,7 @@
     "preserveTaxonomyNames": true,
 
     "NavItems": [
-      ["首页", "/"],
+      ["荐读", "/"],
       ["归档", "/posts"],
       ["关于", "/pages/about"],
       ["订阅", "/index.xml", "_blank"]
