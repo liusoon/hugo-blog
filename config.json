@@ -48,7 +48,7 @@
     "CDN": {
       "JQuery": {
         "Path": "/js/libs",
-        "Version": "3.2.1"
+        "Version": "3.5.1"
       },
       "JQueryMouseWheel": {
         "Path": "/js/libs",
@@ -68,7 +68,7 @@
       },
       "Bootstrap": {
         "Path": "/js/libs",
-        "Version": "3.3.7"
+        "Version": "4.5.0"
       },
       "HighLight": {
         "Path": "//cdn.staticfile.org",
