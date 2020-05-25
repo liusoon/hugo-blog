@@ -3,12 +3,16 @@
   "languageCode": "zh-cn",
   "title": "灿若星河",
   "theme": "divine",
-  "description": "DivinerHJF's BLOG",
+  "Author.name": "hjf",
 
   "enableEmoji": true,
   "hasCJKLanguage": true,
 
   "params": {
+    "description": "DivinerHJF's BLOG",
+    "keywords": "BLOG, Tech, Life",
+    "author": "DivinerHJF",
+
     "Paginate": 5,
     "ArchivePaginate": 25,
 
