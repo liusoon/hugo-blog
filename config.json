@@ -68,7 +68,7 @@
       },
       "Bootstrap": {
         "Path": "/js/libs",
-        "Version": "4.5.0"
+        "Version": "3.4.1"
       },
       "HighLight": {
         "Path": "//cdn.staticfile.org",
