@@ -5,7 +5,7 @@ categories: 技术
 tags:
     - shell
     - bash
-type: ""
+type: "post"
 mathjax: false
 codes: [bash]
 comments: true

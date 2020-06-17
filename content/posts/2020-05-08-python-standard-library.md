@@ -4,7 +4,7 @@ date: 2020-05-18T00:20:31+08:00
 categories: 技术
 tags:
     - python
-type: ""
+type: "post"
 mathjax: false
 codes: [python, ]
 comments: true

@@ -7,7 +7,7 @@ tags:
     - MongoDB
     - Redis
     - Python
-type: ""
+type: "post"
 mathjax: false
 comments: true
 vertical: false

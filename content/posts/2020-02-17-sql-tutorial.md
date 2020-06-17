@@ -5,7 +5,7 @@ categories: 技术
 tags:
     - SQL
     - Database
-type: ""
+type: "post"
 mathjax: false
 codes: [sql]
 comments: true
