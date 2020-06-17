@@ -4,10 +4,12 @@ date: 2020-05-18T00:20:31+08:00
 categories: 技术
 tags:
     - python
+    - Python 标准库
 type: "post"
 mathjax: false
 codes: [python, ]
 comments: true
+vertical: false
 ---
 
 「Python 标准库」中包含了几种不同类型的组件。

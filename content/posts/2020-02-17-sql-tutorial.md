@@ -10,8 +10,6 @@ mathjax: false
 codes: [sql]
 comments: true
 vertical: false
-image: false
-draft: false
 ---
 
 SQL（Structured Query Language）是「结构化查询语言」，它是对关系型数据库的操作语言。它可以应用到所有关系型数据库中，例如：MySQL、Oracle、SQL Server等。它主要划分为以下几类：

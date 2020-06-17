@@ -10,8 +10,6 @@ mathjax: false
 codes: [bash]
 comments: true
 vertical: false
-image: false
-draft: false
 ---
 
 

@@ -4,14 +4,12 @@ date: 2020-05-06T07:19:42+08:00
 categories: 技术
 tags:
   - win10
-  - 截图
   - 图床
-  - Picgo
-  - ShareX
-  - 腾讯云COS
 type: "post"
+mathjax: false
 codes: []
 comments: true
+vertical: false
 ---
 
 ## 绪论

@@ -3,16 +3,13 @@ title: "Python 漫游指南 - 数据库"
 date: 2020-02-16T15:19:59+08:00
 categories: 技术
 tags:
-    - MySQL
-    - MongoDB
-    - Redis
+    - 数据库
     - Python
 type: "post"
 mathjax: false
+codes: []
 comments: true
 vertical: false
-image: true
-draft: false
 ---
 
 这两天待在家里比较闲，利用网络资源学了点儿数据库相关知识，同时对如何用 Python 与数据库进行交互有了进一步的了解。在这里主要是概览性的记录一下学习到的知识点，以备日后温习之用。

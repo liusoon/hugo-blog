@@ -4,10 +4,12 @@ date: 2020-05-24T11:14:03+08:00
 categories: 技术
 tags:
     - python
+    - 读书笔记
 type: "post"
 mathjax: false
 codes: [python]
 comments: true
+vertical: false
 ---
 
 
