@@ -14,7 +14,7 @@
     "author": "DivinerHJF",
 
     "Paginate": 5,
-    "ArchivePaginate": 25,
+    "ArchivePaginate": 1000,
 
     "disablePathToLower": true,
     "preserveTaxonomyNames": true,
@@ -22,6 +22,7 @@
     "NavItems": [
       ["荐读", "/"],
       ["归档", "/posts"],
+      ["作品", "/pages/gallery"],
       ["关于", "/pages/about"],
       ["订阅", "/index.xml", "_blank"]
     ],
