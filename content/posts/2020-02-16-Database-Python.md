@@ -1,14 +1,13 @@
 ---
 title: "Python 漫游指南 - 数据库"
 date: 2020-02-16T15:19:59+08:00
-categories: 编程之道
+categories: 技术
 tags:
     - MySQL
     - MongoDB
     - Redis
     - Python
 type: ""
-toc: true
 mathjax: false
 comments: true
 vertical: false

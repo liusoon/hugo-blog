@@ -1,11 +1,10 @@
 ---
 title: "Python 标准库之我见"
 date: 2020-05-18T00:20:31+08:00
-categories: 编程之道
+categories: 技术
 tags:
     - python
 type: ""
-toc: false
 mathjax: false
 codes: [python, ]
 comments: true

@@ -1,12 +1,11 @@
 ---
 title: "Bash Script - 基础命令探索"
 date: 2020-03-07T18:22:24+08:00
-categories: 编程之道
+categories: 技术
 tags:
     - shell
     - bash
 type: ""
-toc: true
 mathjax: false
 codes: [bash]
 comments: true

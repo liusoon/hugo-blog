@@ -1,12 +1,11 @@
 ---
 title: "数据库漫游指南 - SQL"
 date: 2020-02-17T22:28:47+08:00
-categories: 编程之道
+categories: 技术
 tags:
     - SQL
     - Database
 type: ""
-toc: true
 mathjax: false
 codes: [sql]
 comments: true

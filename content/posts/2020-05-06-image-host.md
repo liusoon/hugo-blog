@@ -1,7 +1,7 @@
 ---
 title: "快捷三式 - Markdown 图床工作流"
 date: 2020-05-06T07:19:42+08:00
-categories: 君子善器
+categories: 技术
 tags:
   - win10
   - 截图
@@ -10,7 +10,6 @@ tags:
   - ShareX
   - 腾讯云COS
 type: ""
-toc: true
 codes: []
 comments: true
 ---

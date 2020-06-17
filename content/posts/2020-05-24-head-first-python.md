@@ -1,11 +1,10 @@
 ---
 title: "《Head First Python》笔记"
 date: 2020-05-24T11:14:03+08:00
-categories: 编程之道
+categories: 技术
 tags:
     - python
 type: ""
-toc: false
 mathjax: false
 codes: [python]
 comments: true

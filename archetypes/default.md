@@ -1,19 +1,17 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: 编程之道, 君子善器, 浮生日记
+categories: 技术, 生活
 tags:
     - x
     - xx
     - xxx
 type: "home"
-toc: false
 mathjax: false
 codes: [bash, diff, markdown, python, r]
 comments: true
 vertical: false
 image: false
-draft: false
 ---
 
 
