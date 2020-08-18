@@ -7,7 +7,7 @@ tags:
     - 读书笔记
 type: "post"
 mathjax: false
-codes: [python]
+codes: [python,]
 comments: true
 vertical: false
 ---

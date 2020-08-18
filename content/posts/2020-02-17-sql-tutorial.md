@@ -7,7 +7,7 @@ tags:
     - Database
 type: "post"
 mathjax: false
-codes: [sql]
+codes: [sql,]
 comments: true
 vertical: false
 ---

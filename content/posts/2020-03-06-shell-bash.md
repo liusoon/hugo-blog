@@ -7,7 +7,7 @@ tags:
     - bash
 type: "post"
 mathjax: false
-codes: [bash]
+codes: [bash,]
 comments: true
 vertical: false
 ---
