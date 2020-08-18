@@ -5,7 +5,6 @@ categories: 技术
 tags:
     - python
     - 读书笔记
-type: "post"
 mathjax: false
 codes: [python,]
 comments: true

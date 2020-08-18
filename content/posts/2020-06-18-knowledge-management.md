@@ -5,7 +5,6 @@ categories: 生活
 tags:
     - 知识管理
     - 体系
-type: "post"
 mathjax: false
 codes: []
 comments: true

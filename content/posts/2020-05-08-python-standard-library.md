@@ -5,7 +5,6 @@ categories: 技术
 tags:
     - python
     - Python 标准库
-type: "post"
 mathjax: false
 codes: [python, ]
 comments: true

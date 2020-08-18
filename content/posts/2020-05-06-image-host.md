@@ -5,7 +5,6 @@ categories: 技术
 tags:
   - win10
   - 图床
-type: "post"
 mathjax: false
 codes: []
 comments: true

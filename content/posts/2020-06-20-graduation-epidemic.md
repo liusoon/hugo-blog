@@ -5,7 +5,6 @@ categories: 生活
 tags:
     - 大学毕业
     - 专心
-type: "post"
 mathjax: false
 codes: []
 comments: true

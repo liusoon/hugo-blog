@@ -5,7 +5,6 @@ categories: 技术
 tags:
     - 异步加载
     - 网站优化
-type: "post"
 mathjax: false
 codes: []
 comments: true

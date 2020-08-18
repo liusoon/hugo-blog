@@ -5,7 +5,6 @@ categories: 技术
 tags:
     - 数据库
     - Python
-type: "post"
 mathjax: false
 codes: []
 comments: true
