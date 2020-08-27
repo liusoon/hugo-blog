@@ -8,6 +8,14 @@
   "enableEmoji": true,
   "hasCJKLanguage": true,
 
+  "markup": {
+    "goldmark": {
+       "renderer": {
+          "unsafe": true
+       }
+    }
+ },
+
   "params": {
     "description": "DivinerHJF's BLOG",
     "keywords": "BLOG, Tech, Life",
